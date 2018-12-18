@@ -1,1 +1,5 @@
-# Android-SMS-Listesi-ve-Dinleme-Bildirim---SMS-List-and-Reciver-Notification
+
+## [Android SMS Listesi ve Dinleme Bildirim - SMS List and Reciver Notification](https://github.com/cemocanon/Android-SMS-Listesi-ve-Dinleme-Bildirim---SMS-List-and-Reciver-Notification)
+
+Android basit mesaj listeleme ve bildirimle bilgilendirme.
+
